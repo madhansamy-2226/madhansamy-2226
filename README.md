@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Madhan S
 
-🐍 Full Stack Python Developer | Django | REST APIs | React.js
+🐍 Python | Frontend Developer | Django | REST APIs | React.js | Fresher 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Full+Stack+Python+Developer;Django+%7C+REST+APIs+%7C+React.js;Building+Scalable+Web+Applications;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
