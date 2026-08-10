@@ -1,190 +1,409 @@
-## Hi there 👋
+Yes — below is a ready-to-use GitHub Profile README.md, customized from your uploaded resume rather than using fake achievements or technologies. Your resume supports Python/Django/DRF/React, PostgreSQL/MySQL/SQLite, Git/GitHub, and your three listed projects.  
 
-<!--
-**madhansamy-2226/madhansamy-2226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Important: I have not invented LeetCode, CodeChef, Codeforces, hackathon, leadership, open-source, GraphQL, Kubernetes, blockchain, or AI achievements because they aren't supported by your resume. You can add them later if you actually have them.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 👋 Hi, I'm Madhan S
 
-🐍 Full Stack Python Developer | Django | REST API | React | SQL
+🐍 Full Stack Python Developer | Django | REST APIs | React.js
 
-Welcome to my GitHub profile! I'm a Full Stack Python Developer passionate about building scalable, responsive, and user-friendly web applications.
-
-I work across both backend and frontend development, with a strong focus on Python, Django, REST APIs, databases, JavaScript, and React. I enjoy turning ideas into practical software solutions and continuously improving my development skills.
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Full+Stack+Python+Developer;Django+%7C+REST+APIs+%7C+React.js;Building+Scalable+Web+Applications;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+</p><p align="center">
+  <a href="https://github.com/madhan200422-lab">
+    <img src="https://img.shields.io/badge/GitHub-madhan200422--lab-7AA2F7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/madhan-sn2226">
+    <img src="https://img.shields.io/badge/LinkedIn-Madhan%20S-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:madhan200422@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=madhan200422-lab&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
+</p>---
 
 🚀 About Me
 
-- 💻 Full Stack Python Developer
-- 🐍 Strong interest in Python & Django
-- 🔗 Building and integrating RESTful APIs
-- ⚛️ Developing responsive interfaces with React.js
-- 🗄️ Working with MySQL, PostgreSQL & MongoDB
-- 🌐 Experienced with HTML5, CSS3, JavaScript & Bootstrap
-- 🔧 Familiar with Git, GitHub, Docker & VS Code
-- ☁️ Exploring AWS and cloud deployment
-- 📚 Continuously learning modern web technologies
-- 🎯 Interested in building real-world, scalable applications
+I'm a Full Stack Python Developer focused on building responsive, scalable, and user-friendly web applications using modern frontend and backend technologies.
+
+My core development stack includes Python, Django, Django REST Framework, React, JavaScript, SQL, PostgreSQL, MySQL, Git, and GitHub.
+
+I enjoy building complete applications from frontend interfaces to REST APIs and relational databases, while continuously improving my knowledge of testing, CI/CD, Docker, and cloud deployment.
+
+📍 Based in: Chennai, Tamil Nadu, India
+🎓 Education: B.Sc. Computer Science
+💻 Focus: Full Stack Web Development
+🐍 Backend: Python, Django, Django REST Framework
+⚛️ Frontend: React, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS
+🗄️ Databases: PostgreSQL, MySQL, SQLite
 
 ---
 
-🛠️ Technical Skills
+🎯 Professional Philosophy
 
-👨‍💻 Programming Languages
+«Build with purpose. Write clean code. Learn continuously. Improve every day.»
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+I believe strong software engineering comes from combining problem-solving, clean architecture, practical development, continuous learning, and attention to user experience.
 
-⚙️ Frameworks & Libraries
+My goal is to grow into a highly capable software engineer who can design, develop, test, deploy, and maintain reliable full-stack applications.
 
-"Django" (https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-"Django REST Framework" (https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
-"Flask" (https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-"Bootstrap" (https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+---
+
+🛠️ Engineering Stack
+
+💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+</p>- Python
+- JavaScript
+- HTML5
+- CSS3
+- SQL
+
+---
+
+🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vite" />
+</p>- React.js
+- React with Vite
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
+- Responsive Web Design
+
+---
+
+⚙️ Backend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask" />
+</p>- Python
+- Django
+- Django REST Framework
+- Flask
+- RESTful APIs
+- Authentication
+- CRUD operations
+- API development
+
+---
 
 🗄️ Databases
 
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-"MongoDB" (https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-"SQLite" (https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-🔧 Tools & Technologies
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"Docker" (https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-"AWS" (https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>- PostgreSQL
+- MySQL
+- SQLite
+- Relational database design
+- SQL queries
+- Database normalization
+- Indexing
 
 ---
 
-📌 Featured Projects
+🔧 Development Tools
 
-🛒 E-Commerce Web Application
-
-A full-stack e-commerce platform with product management, authentication, shopping cart, order management, and responsive UI.
-
-Technologies: Python, Django, Django REST Framework, React, MySQL
-
----
-
-💼 Job Portal
-
-A full-stack job portal where users can register, authenticate, browse job listings, and apply for jobs through secure REST APIs.
-
-Technologies: React, Django, Django REST Framework, PostgreSQL
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>- Git
+- GitHub
+- VS Code
+- Postman
 
 ---
 
-👨‍💼 Employee Management System
+☁️ Cloud & DevOps — Currently Learning
 
-A web-based employee management application for managing employee records and administrative operations.
-
-Technologies: Python, Django, MySQL, HTML, CSS, JavaScript
-
----
-
-🌦️ Weather Forecast Application
-
-A responsive weather application that retrieves real-time weather information and forecast data using an external weather API.
-
-Technologies: React.js, JavaScript, HTML, CSS, OpenWeather API
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions" />
+</p>- Docker
+- GitHub Actions
+- CI/CD
+- Automated testing
+- AWS cloud deployment
 
 ---
 
-🔐 Password Generator
+💼 Featured Projects
 
-A responsive frontend application for generating customizable random passwords with different character options.
+💼 1. Job Portal
 
-Technologies: HTML5, CSS3, JavaScript, Bootstrap
+Full-stack job portal built with React, Django REST Framework, Tailwind CSS, and PostgreSQL.
+
+🧩 Problem Solved
+
+Created a platform where users can authenticate, browse job listings, view job details, and submit applications.
+
+🏗️ Architecture
+
+React Frontend
+      ↓
+Django REST Framework
+      ↓
+PostgreSQL Database
+
+⚡ Key Features
+
+- User registration and login
+- Authentication
+- Job listing management
+- Job CRUD APIs
+- Job applications
+- Protected routes
+- Role-appropriate access
+- Responsive React frontend
+- PostgreSQL relational schema
+
+🛠️ Tech Stack
+
+Frontend    → React + Vite + Tailwind CSS
+Backend     → Python + Django REST Framework
+Database    → PostgreSQL
+Architecture → Frontend → REST API → Database
 
 ---
 
-🧮 Calculator Web Application
+🛒 2. E-Commerce Website
 
-A responsive calculator application supporting basic arithmetic operations with an interactive user interface.
+Responsive e-commerce frontend built using HTML, CSS, JavaScript, and Bootstrap.
 
-Technologies: HTML5, CSS3, JavaScript, Bootstrap
+🧩 Problem Solved
+
+Created an online shopping interface allowing users to browse products and move through a shopping cart and checkout flow.
+
+⚡ Key Features
+
+- Product catalog
+- Product listings
+- Shopping cart
+- Checkout flow
+- Dynamic UI updates
+- Responsive design
+- Mobile compatibility
+- Tablet compatibility
+- Desktop compatibility
+
+🛠️ Tech Stack
+
+HTML5
+CSS3
+JavaScript
+Bootstrap
 
 ---
 
-📊 GitHub Statistics
+🚌 3. Bus Ticket Booking System
+
+Database-driven ticket booking system designed using MySQL.
+
+🧩 Problem Solved
+
+Designed a relational database system for managing passengers, buses, and ticket bookings.
+
+⚡ Key Features
+
+- Passenger management
+- Bus management
+- Ticket booking
+- Booking updates
+- Booking cancellations
+- CRUD operations
+- SQL queries
+- Database normalization
+- Indexing
+- Data integrity
+
+🛠️ Database Architecture
+
+Passengers
+     │
+     ├──── Bookings
+     │
+Buses
+     │
+     └──── Bookings
+
+---
+
+🏆 Professional Highlights
+
+Area| Experience / Focus
+🐍 Python| Full-stack application development
+🌐 Django| Web application development
+🔗 REST APIs| API development with Django REST Framework
+⚛️ React| Frontend application development
+🗄️ SQL| Relational database development
+🐘 PostgreSQL| Full-stack project database
+🐬 MySQL| Database-driven applications
+🎨 Bootstrap| Responsive UI development
+🌊 Tailwind CSS| Modern React UI development
+🔧 Git| Version control
+🐙 GitHub| Source-code management
+🐳 Docker| Currently learning
+☁️ AWS| Currently learning
+🔄 CI/CD| Currently learning
+🧪 Testing| pytest / Django Test Framework — currently learning
+
+---
+
+🏆 Certifications
+
+📜 Python Full Stack Developer — ICT Academy
+
+📜 Python Full Stack Developer — Besant Technologies
+
+---
+
+📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madhan200422-lab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 </p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhan200422-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com?user=madhan200422-lab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>---
 
-📈 Most Used Languages
+🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=madhan200422-lab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
 </p>---
 
-🎯 Current Goals
+📊 Contribution Activity
 
-✓ Build production-ready full-stack applications
-✓ Improve Django & REST API development
-✓ Strengthen React.js skills
-✓ Improve database design and SQL optimization
-✓ Learn cloud deployment and DevOps practices
-✓ Contribute to open-source projects
-✓ Continuously improve problem-solving skills
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhan200422-lab&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>---
+
+🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/madhan200422-lab/madhan200422-lab/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>«To enable the snake animation, configure a GitHub Actions workflow in the profile repository to generate the "output" SVG.»
 
 ---
 
-📚 Currently Learning
+🌱 Currently Exploring
 
-- Advanced Django
-- Django REST Framework
-- React.js
-- REST API Architecture
-- PostgreSQL
-- Docker
-- AWS
-- System Design
-- Clean Code & Software Development Practices
+I'm currently expanding my engineering skills in:
+
+🐳 Docker
+🔄 CI/CD & GitHub Actions
+🧪 Automated Testing
+☁️ AWS Cloud Deployment
+🏗️ System Design
+🔐 Application Security
+⚡ Performance Optimization
+🌐 Production Web Deployment
+
+---
+
+🔭 Future Engineering Interests
+
+As I grow as a software engineer, I am interested in exploring:
+
+- AI Agents
+- LLM Engineering
+- RAG Systems
+- Agentic AI
+- Kubernetes
+- Distributed Systems
+- Cloud-Native Architecture
+- High-Performance Systems
+- Data Engineering
+- Advanced System Design
+
+---
+
+📚 Engineering Roadmap
+
+Full Stack Development
+        │
+        ├── Python
+        ├── Django
+        ├── REST APIs
+        ├── React
+        ├── PostgreSQL
+        │
+        ↓
+Testing & Code Quality
+        │
+        ├── pytest
+        ├── Django Testing
+        └── Automated Testing
+        │
+        ↓
+DevOps & Cloud
+        │
+        ├── Docker
+        ├── CI/CD
+        ├── GitHub Actions
+        └── AWS
+        │
+        ↓
+Advanced Engineering
+        │
+        ├── System Design
+        ├── Scalability
+        ├── Cloud Native
+        └── Distributed Systems
+
+---
+
+🧠 Engineering Mindset
+
+Problem → Understand → Design → Build → Test → Optimize → Deploy → Learn
+
+I focus on understanding the problem first, designing practical solutions, writing maintainable code, testing functionality, and continuously improving the final product.
 
 ---
 
 🤝 Let's Connect
 
-<p align="left"><a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a><a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a><a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="center"><a href="mailto:madhan200422@gmail.com">
+<img src="https://img.shields.io/badge/Email-madhan200422%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a><a href="https://www.linkedin.com/in/madhan-sn2226">
+<img src="https://img.shields.io/badge/LinkedIn-Madhan%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a><a href="https://github.com/madhan200422-lab">
+<img src="https://img.shields.io/badge/GitHub-madhan200422--lab-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a></p>---
 
-💡 Developer Philosophy
+📫 Open to Opportunities
 
-«"Build it. Improve it. Learn from it. Repeat."»
+I'm interested in opportunities related to:
 
-I believe in learning by building real-world projects, writing clean and maintainable code, and continuously improving my technical skills.
+- Full Stack Python Development
+- Python Developer
+- Django Developer
+- Backend Developer
+- Full Stack Developer
+- Software Engineer
 
 ---
 
-⭐ Thank You for Visiting!
+💬 Signature Quote
 
-Thanks for visiting my GitHub profile.
+«"Don't just write code that works — build software that is reliable, maintainable, scalable, and worth improving."»
 
-If you find any of my projects useful, feel free to ⭐ the repository and connect with me!
+---
 
-Let's build something amazing together! 🚀
+⭐ Thanks for Visiting!
+
+<p align="center">🚀 Build • Learn • Improve • Repeat
+
+Thanks for visiting my GitHub profile!
+
+If you find my projects useful, consider giving them a ⭐.
+
+</p><p align="center">
+  <b>🐍 Python • Django • REST APIs • React • SQL • Git • Cloud</b>
+</p>
