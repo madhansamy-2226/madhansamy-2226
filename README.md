@@ -1,10 +1,4 @@
-Yes — below is a ready-to-use GitHub Profile README.md, customized from your uploaded resume rather than using fake achievements or technologies. Your resume supports Python/Django/DRF/React, PostgreSQL/MySQL/SQLite, Git/GitHub, and your three listed projects.  
-
-> Important: I have not invented LeetCode, CodeChef, Codeforces, hackathon, leadership, open-source, GraphQL, Kubernetes, blockchain, or AI achievements because they aren't supported by your resume. You can add them later if you actually have them.
-
-
-
-👋 Hi, I'm Madhan S
+# 👋 Hi, I'm Madhan S
 
 🐍 Full Stack Python Developer | Django | REST APIs | React.js
 
