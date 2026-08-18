@@ -116,24 +116,6 @@ A responsive full-stack shopping platform designed to provide a smooth online sh
 
 ---
 
-## 🚌 Bus Ticket Booking System
-
-A database-driven booking system designed to manage buses, passengers, and ticket reservations.
-
-### ✨ Features
-
-* 👤 Passenger management
-* 🚌 Bus management
-* 🎫 Ticket booking
-* 🔄 Booking updates
-* ❌ Booking cancellation
-* 🗄️ SQL database management
-* 🔧 CRUD operations
-
-**Stack:** `Python` `MySQL` `SQL`
-
----
-
 # 📜 Certifications
 
 🏆 **Python Full Stack Developer** — ICT Academy
